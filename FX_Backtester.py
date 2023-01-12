@@ -25,6 +25,11 @@ elif dir == "S":
         profit = float(ratio)*2
     profit = round(profit,4)
     print(profit)
+
+#SAMPLE INPUT
+
 #Enter ATR value: 39.8786
 #Enter ENTRY Price: 29853.6
 #Enter EXIT Price: 29865.5
+#Enter Buy (B) or Sell (S): B
+#Did The Trade Reach 1*ATR? (Y) or (N): Y
